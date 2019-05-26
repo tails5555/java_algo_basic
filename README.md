@@ -11,3 +11,9 @@
 - 정렬
     - O(N2) 방법
     - O(N log N) 방법
+    
+- 이진 탐색(Binary Search) 
+   
+- 퇴각 검색(Backtracking)
+    - 순열(Permutation)
+    - 조합(Combination)
