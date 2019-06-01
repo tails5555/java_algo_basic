@@ -20,3 +20,5 @@
     
 - 그래프(Graph)
     - 위상 정렬(Topological Sort)
+    - BFS(Breadth 1st Search)
+    - DFS(Depth 1st Search)

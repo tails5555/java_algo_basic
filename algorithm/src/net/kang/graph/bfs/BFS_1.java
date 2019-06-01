@@ -13,7 +13,7 @@ public class BFS_1 {
     static final boolean X = false;
 
     static final int N = 7;
-    static final int S = 1; // 시작점에 따라 순회 방법이 달라집니다.
+    static final int S = 1; // 시작점에 따라 순회가 달라집니다.
 
     static boolean[][] graph = new boolean[][] {
         { X, X, X, X, X, X, X, X },

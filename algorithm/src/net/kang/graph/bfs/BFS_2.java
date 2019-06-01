@@ -11,7 +11,7 @@ import java.util.Queue;
 // 시간 복잡도는 O(V + E)
 public class BFS_2 {
     static final int N = 7;
-    static final int S = 1; // 시작점에 따라 순회 방법이 달라집니다.
+    static final int S = 1; // 시작점에 따라 순회가 달라집니다.
 
     static List<Integer>[] graph = new List[] {
         null,
