@@ -4,6 +4,10 @@
 
 ## Data Structure
 
+- ArrayList
+
+- LinkedList
+
 - 이진 탐색 트리
 
 ## Algorithm
@@ -22,3 +26,5 @@
     - 위상 정렬(Topological Sort)
     - BFS(Breadth 1st Search)
     - DFS(Depth 1st Search)
+    - Dijkstra Algorithm
+    - Froyd Warshall Algorithm
