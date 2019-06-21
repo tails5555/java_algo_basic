@@ -33,3 +33,7 @@
     - Dijkstra Algorithm(다익스트라 알고리즘)
     - Bellman-Ford Algorithm(벨만-포드 알고리즘)
     - Froyd Warshall Algorithm(플로이드-워샬 알고리즘)
+    
+- 다이나믹 프로그래밍(Dynamic Programming)
+    - 배낭 문제(Knapsack Algorithm)
+    - 최장 증가 부분 수열(Longest Increasing Subsequence, LIS)
