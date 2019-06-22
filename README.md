@@ -37,3 +37,5 @@
 - 다이나믹 프로그래밍(Dynamic Programming)
     - 배낭 문제(Knapsack Algorithm)
     - 최장 증가 부분 수열(Longest Increasing Subsequence, LIS)
+    
+- 세그먼트 트리(Segment Tree)
