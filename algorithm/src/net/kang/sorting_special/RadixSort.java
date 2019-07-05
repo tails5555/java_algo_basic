@@ -58,7 +58,5 @@ public class RadixSort {
         initialize();
         radix_sort_decimal(array);
         System.out.println(Arrays.toString(array));
-
-        initialize();
     }
 }

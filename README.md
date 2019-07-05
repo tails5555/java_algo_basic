@@ -42,7 +42,9 @@
     - DFS(Depth 1st Search)
     - Dijkstra Algorithm(다익스트라 알고리즘)
     - Bellman-Ford Algorithm(벨만-포드 알고리즘)
-    - Froyd Warshall Algorithm(플로이드-워샬 알고리즘)
+    - 최소 신장 트리(Minimal Spanning Tree, MST)
+        - Prim Algorithm
+        - Kruskal Algorithm
     
 - 다이나믹 프로그래밍(Dynamic Programming)
     - 배낭 문제(Knapsack Algorithm)
